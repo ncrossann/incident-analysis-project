@@ -1,0 +1,101 @@
+Incident_ID,Date,Application,Severity,Root_Cause,Resolution_Hours
+1,8/1/2026,Trade Capture,High,Deployment Issue,20
+2,8/1/2026,Equities App B,Medium,Network Issue,8
+3,8/2/2026,Order Management,Low,User Error,2
+4,8/2/2026,Market Data Service,Low,Memory Issue,2
+5,8/3/2026,Equities App B,Low,Database Issue,3
+6,8/3/2026,Equities App B,Low,Data Gap,3
+7,8/3/2026,Equities App B,Medium,Network Issue,4
+8,8/3/2026,Market Data Service,Medium,User Error,4
+9,8/4/2026,Equities App B,Medium,User Error,8
+10,8/4/2026,Order Management,Low,Database Issue,1
+11,8/5/2026,Equities App A,Low,Database Issue,3
+12,8/5/2026,Trade Capture,Medium,Memory Issue,7
+13,8/6/2026,Trade Capture,Medium,Database Issue,5
+14,8/6/2026,Order Management,Low,User Error,2
+15,8/6/2026,Order Management,Medium,Data Gap,8
+16,8/7/2026,Order Management,High,Network Issue,23
+17,8/7/2026,Equities App B,Medium,Memory Issue,5
+18,8/7/2026,Trade Capture,Low,Deployment Issue,2
+19,8/7/2026,Market Data Service,Medium,Data Gap,3
+20,8/7/2026,Market Data Service,Low,Deployment Issue,2
+21,8/8/2026,Equities App B,Medium,Database Issue,4
+22,8/8/2026,Order Management,Low,Network Issue,3
+23,8/8/2026,Order Management,Medium,Database Issue,5
+24,8/9/2026,Trade Capture,Low,Deployment Issue,3
+25,8/9/2026,Market Data Service,Low,Database Issue,3
+26,8/10/2026,Equities App B,Low,User Error,2
+27,8/10/2026,Equities App B,Low,Data Gap,3
+28,8/10/2026,Trade Capture,Medium,User Error,8
+29,8/10/2026,Market Data Service,High,Data Gap,15
+30,8/11/2026,Equities App A,Low,Memory Issue,3
+31,8/11/2026,Equities App A,Medium,Memory Issue,4
+32,8/11/2026,Market Data Service,Medium,Data Gap,6
+33,8/12/2026,Order Management,Low,Network Issue,2
+34,8/13/2026,Equities App B,Medium,Deployment Issue,3
+35,8/14/2026,Trade Capture,Low,Deployment Issue,1
+36,8/14/2026,Order Management,Medium,Network Issue,7
+37,8/14/2026,Trade Capture,Low,Deployment Issue,3
+38,8/15/2026,Equities App B,Medium,User Error,3
+39,8/16/2026,Equities App B,Low,Memory Issue,1
+40,8/17/2026,Equities App A,Low,Data Gap,3
+41,8/17/2026,Equities App A,Low,Database Issue,2
+42,8/17/2026,Order Management,Low,Memory Issue,2
+43,8/17/2026,Equities App B,Medium,Memory Issue,4
+44,8/18/2026,Order Management,Low,Memory Issue,2
+45,8/19/2026,Trade Capture,Medium,Deployment Issue,6
+46,8/19/2026,Order Management,Low,Database Issue,1
+47,8/19/2026,Equities App B,Low,Database Issue,2
+48,8/19/2026,Market Data Service,Medium,Deployment Issue,7
+49,8/20/2026,Order Management,Medium,User Error,6
+50,8/21/2026,Equities App A,High,Network Issue,23
+51,8/21/2026,Equities App B,Low,User Error,2
+52,8/22/2026,Trade Capture,Medium,Memory Issue,8
+53,8/22/2026,Equities App A,Low,Network Issue,2
+54,8/22/2026,Order Management,High,Memory Issue,22
+55,8/22/2026,Order Management,Low,Memory Issue,2
+56,8/23/2026,Order Management,Low,Memory Issue,1
+57,8/23/2026,Equities App B,Low,User Error,3
+58,8/24/2026,Equities App A,Low,Network Issue,2
+59,8/24/2026,Market Data Service,High,Deployment Issue,23
+60,8/24/2026,Equities App B,Medium,Network Issue,6
+61,8/24/2026,Equities App B,Medium,Memory Issue,4
+62,8/24/2026,Market Data Service,Low,Memory Issue,2
+63,8/25/2026,Equities App B,Medium,Network Issue,7
+64,8/25/2026,Order Management,Medium,User Error,5
+65,8/25/2026,Equities App B,High,Network Issue,20
+66,8/26/2026,Order Management,Low,Database Issue,2
+67,8/27/2026,Trade Capture,Low,User Error,1
+68,8/27/2026,Order Management,High,Memory Issue,24
+69,8/28/2026,Order Management,Low,User Error,3
+70,8/28/2026,Market Data Service,Low,Database Issue,3
+71,8/29/2026,Trade Capture,Low,Memory Issue,2
+72,8/29/2026,Equities App B,Medium,Database Issue,8
+73,8/29/2026,Order Management,Low,Data Gap,1
+74,8/29/2026,Equities App A,Medium,User Error,3
+75,8/29/2026,Trade Capture,Low,Network Issue,2
+76,8/30/2026,Equities App A,Medium,Deployment Issue,4
+77,8/30/2026,Order Management,High,Deployment Issue,15
+78,8/30/2026,Order Management,Low,User Error,2
+79,8/30/2026,Equities App A,Medium,Network Issue,5
+80,8/30/2026,Market Data Service,High,Network Issue,21
+81,8/31/2026,Equities App B,Low,Network Issue,2
+82,8/31/2026,Equities App A,Medium,Database Issue,5
+83,8/31/2026,Trade Capture,Low,Database Issue,1
+84,9/1/2026,Equities App B,Medium,Database Issue,4
+85,9/1/2026,Equities App A,Low,Database Issue,2
+86,9/1/2026,Trade Capture,Medium,User Error,6
+87,9/1/2026,Order Management,Medium,Data Gap,5
+88,9/2/2026,Trade Capture,Low,User Error,3
+89,9/2/2026,Market Data Service,Medium,Memory Issue,6
+90,9/3/2026,Trade Capture,High,User Error,20
+91,9/3/2026,Trade Capture,Low,Memory Issue,2
+92,9/3/2026,Trade Capture,Low,Network Issue,3
+93,9/3/2026,Order Management,Medium,Memory Issue,3
+94,9/4/2026,Equities App A,High,Database Issue,15
+95,9/4/2026,Equities App A,Medium,Data Gap,5
+96,9/4/2026,Equities App A,Low,Memory Issue,1
+97,9/4/2026,Order Management,Low,User Error,3
+98,9/4/2026,Trade Capture,Medium,Database Issue,8
+99,9/5/2026,Trade Capture,High,Network Issue,23
+100,9/5/2026,Equities App B,High,Network Issue,19
